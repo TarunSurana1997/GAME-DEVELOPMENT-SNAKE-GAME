@@ -98,4 +98,14 @@ It uses SFML for rendering and input handling, and it includes features like sco
 
 The game is easy to understand and can be extended with additional features like levels, obstacles, or power-ups.
 
-#OUTPUT
+<h1>OUTPUT</h1>
+
+![Image](https://github.com/user-attachments/assets/1be15f15-f9d5-4bff-9a12-ced7a82f862e)
+
+![Image](https://github.com/user-attachments/assets/aaa24a5f-3b39-44e4-b726-466b13e66322)
+
+![Image](https://github.com/user-attachments/assets/ea4d5f01-fcc2-410c-a336-867e96402d0d)
+
+![Image](https://github.com/user-attachments/assets/d3f1e077-eda2-4bfc-b18e-cac330f42e59)
+
+![Image](https://github.com/user-attachments/assets/8a68cf09-ed1f-433a-9922-7e6a5453c66d)
