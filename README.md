@@ -82,7 +82,7 @@ Removes the tail segment of the snake unless a fruit has been eaten.
 
 Spawns a new fruit at a random position, ensuring it doesn't overlap with the snake.
 
-l5. oadHighscore() and saveHighscore():
+4. oadHighscore() and saveHighscore():
 
 Load and save the high score from/to a file.
 
